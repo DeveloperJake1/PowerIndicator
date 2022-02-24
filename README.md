@@ -30,7 +30,7 @@ $ bash ChargeDetection.bash
 
 
 #### To Stop the Power Indicator: 
-   - **Close the terminal tab by pressing 'cmd + w' in the tab that it's running in**, or just quit the terminal.
+   - **Close the terminal tab by pressing `⌘cmd + w` in the tab that it's running in**, or just quit the terminal.
 
 <hr>
 <br><br>
