@@ -38,8 +38,8 @@ $ bash ChargeDetection.bash
 # FAQ
 
 ## How Does the Power Indicator Work?
-> The Power Indicator uses AppleScript to check if your mac is currently plugged in using `ioreg -w0 -l | grep ExternalChargeCapable` and returns the
-> result to CheckDetection.bash. 
+> The Power Indicator uses AppleScript to check if your mac is currently plugged in using `ioreg -w0 -l | grep ExternalChargeCapable` 
+> and returns the result to CheckDetection.bash. 
 
 ## How Can I Make it Constantly running in the background?
 > Don't. It's an expensive way to achieve very little, and by “expensive”, I am referring to the potential strain on computer resources, and could 
