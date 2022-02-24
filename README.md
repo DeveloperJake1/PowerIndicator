@@ -8,15 +8,15 @@ Support me on Youtube: https://www.youtube.com/c/developerjake
 
 
 #### To change the function that happens when plugged in:
-   1) Navigate to PowerIndicator/ChargeDetection.bash and go to line 11. 
+   1) Navigate to `/ChargeDetection.bash` and go to `line 55`. 
    2) You can add any shell function there or call a different script. 
-   3) Feel free to remove line 12 and 13
+   3) Feel free to remove lines `57-63`.
 
 
 #### To change the function that happens when unplugged:
-   1) Navigate to PowerIndicator/ChargeDetection.bash and go to line 24. 
+   1) Navigate to `/ChargeDetection.bash` and go to `line 74`. 
    2) You can add any shell function there or call a different script. 
-   3) Feel free to remove line 26 and 27
+   3) Feel free to remove line `76-81`.
 
 
 
