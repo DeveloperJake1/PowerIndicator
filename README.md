@@ -1,6 +1,6 @@
 # PowerIndicator (1.0)
 ### Power Indicator allows you to make anything happen when you plug your Mac into the wall and unplug it from the wall.
-Support me on Youtube: https://www.youtube.com/c/developerjake
+Support me on Youtube: https://www.youtube.com/developerjake
 
 <hr>
 
