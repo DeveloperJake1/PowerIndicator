@@ -58,9 +58,9 @@ while true; do
 
     # afplay Sounds/default_connect_power.aif #<< default plug in sound 
 
-    afplay /System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/Sounds/LayoutChanged.aiff #<< custom plug in sound 1
+    afplay /System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/Sounds/LayoutChanged.aiff &#<< custom plug in sound 1
 
-    afplay Sounds/anime_connect_power.mp3 #<< custom plug in sound 2
+    afplay Sounds/anime_connect_power.mp3 &#<< custom plug in sound 2
 
    #-
 
@@ -76,9 +76,9 @@ while true; do
     echo "I'm not charging now.
     "
 
-    afplay /System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/Sounds/BrailleDisplayDisconnected.aiff #<< custom disconnect sound 1
+    afplay /System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/Sounds/BrailleDisplayDisconnected.aiff &#<< custom disconnect sound 1
 
-    afplay Sounds/anime_disconnect_power.mp3 #<< custom disconnect sound 2
+    afplay Sounds/anime_disconnect_power.mp3 &#<< custom disconnect sound 2
 
    #-
 
